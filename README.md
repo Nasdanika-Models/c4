@@ -1,2 +1,2 @@
-# c4
-Ecore C4 Mode
+# Ecore C4 Model
+
